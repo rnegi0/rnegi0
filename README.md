@@ -9,7 +9,7 @@
 ## Cyber Companionship Awaits:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rabindra%20Singh%20Negi-blue)](https://www.linkedin.com/in/rabindra-singh-negi-057330105/)
 
-## My Alchemical Toolkit:
+## My Al Chemical Toolkit:
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
